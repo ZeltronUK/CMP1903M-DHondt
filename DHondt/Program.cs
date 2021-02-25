@@ -7,7 +7,8 @@ namespace DHondt
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Test");
+            Console.WriteLine("Testicles");
+            Console.WriteLine("The N Word Real Bad");
         }
     }
 }
